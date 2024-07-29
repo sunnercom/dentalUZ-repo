@@ -17,6 +17,11 @@ ul {
     list-style: none;
 }
 
+.container {
+    max-width: 1323px;
+    margin: 0 auto;
+}
+
 /* header*/
 .header {
     width: 100%;
@@ -104,4 +109,29 @@ ul {
     font-size: 32px;
     font-weight: 800;
     color: #2B6D55;
+}
+
+/* carusel one section */
+.ctitle__one {
+    font-family: Kaisei Tokumin;
+    font-size: 48px;
+    font-weight: 700;
+    color: #2B6D55;
+    text-align: center;
+    margin-top: 155px;
+    margin-bottom: 25px;
+}
+
+.sta-name {
+    font-family: Kadwa;
+    font-size: 25px;
+    font-weight: 700;
+    margin-bottom: 0 !important;
+}
+
+.sta-job {
+    font-family: Kadwa;
+    font-size: 25px;
+    font-weight: 700;
+    margin-bottom: 33px;
 }
